@@ -6,8 +6,10 @@
   "author": "Meghna Srivastava <meghna.s1906@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@storybook/addons": "^5.0.11",
     "@storybook/react": "^5.0.11",
-    "babel-core": "^6.26.3"
+    "babel-core": "^6.26.3",
+    "storybook-addon-jsx": "^7.1.2"
   },
   "dependencies": {
     "react": "^16.8.6",
